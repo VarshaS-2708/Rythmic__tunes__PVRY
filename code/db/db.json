@@ -1,0 +1,125 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Bol Do Na Zara",
+      "singer": "Armaan Malik",
+      "genre": "Romantic",
+      "imgUrl": "https://c.saavncdn.com/709/Bol-Do-Na-Zara-Instrumental-Hindi-2018-20181221231527-500x500.jpg",
+      "songUrl": "Songs/Bol Do Na Zara.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Chaleya",
+      "singer": "Arijit Singh",
+      "genre": "Romantic",
+      "imgUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202309/chaleya-song-141618193-1x1.jpg?VersionId=4H9DEXybp0zu2rGuku7n_C2z8stxuBJZ",
+      "songUrl": "Songs/chaleya.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Humnava Mere",
+      "singer": "Jubin Nautiyal",
+      "genre": "Romantic",
+      "imgUrl": "https://c.saavncdn.com/259/Humnava-Mere-Hindi-2018-20180522-500x500.jpg",
+      "songUrl": "Songs/Humnava Mere.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Saari Duniya Jalaa Denge",
+      "singer": "B Praak",
+      "genre": "Emotional",
+      "imgUrl": "https://c.saavncdn.com/623/Saari-Duniya-Jalaa-Denge-From-ANIMAL-Hindi-2023-20231124191004-500x500.jpg",
+      "songUrl": "Songs/Saari Duniya Jalaa Denge.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Sanam Teri Kasam",
+      "singer": "Ankit Tiwari",
+      "genre": "Emotional",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2731c79ed9daa0ef22e185c71cd",
+      "songUrl": "Songs/Sanam Teri Kasam.mp3"
+    },
+    {
+      "id": 6,
+      "title": "Tum Hi Ho",
+      "singer": "Arijit Singh",
+      "genre": "Emotional",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Tum_Hi_Ho_cover.jpeg/220px-Tum_Hi_Ho_cover.jpeg",
+      "songUrl": "Songs/Tum Hi Ho.mp3"
+    },
+    {
+      "id": 7,
+      "title": "zihal-e-misk",
+      "singer": "Shreya Ghoshal",
+      "genre": "Emotional",
+      "imgUrl": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1685023719.jpg",
+      "songUrl": "Songs/Zihal-e-Misk.mp3"
+    },
+    {
+      "id": 8,
+      "title": "Chuttamalle",
+      "singer": "Shilpa Rao",
+      "genre": "Romantic",
+      "imgUrl": "data:image/jpeg;base64,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",
+      "songUrl": "Songs/Chuttamalle.mp3"
+    },
+    {
+      "id": 9,
+      "title": "Uyi Amma",
+      "singer": "Amitabh Bhattacharya",
+      "genre": "Romantic",
+      "imgUrl": "data:image/jpeg;base64,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",
+      "songUrl": "Songs/Uyi Amma.mp3"
+    }
+  ],
+  "favorities": [
+    {
+      "itemId": 4,
+      "title": "Saari Duniya Jalaa Denge",
+      "imgUrl": "https://c.saavncdn.com/623/Saari-Duniya-Jalaa-Denge-From-ANIMAL-Hindi-2023-20231124191004-500x500.jpg",
+      "genre": "Emotional",
+      "songUrl": "Songs/Saari Duniya Jalaa Denge.mp3",
+      "singer": "B Praak",
+      "id": 6
+    },
+    {
+      "itemId": 1,
+      "title": "Bol Do Na Zara",
+      "imgUrl": "https://c.saavncdn.com/709/Bol-Do-Na-Zara-Instrumental-Hindi-2018-20181221231527-500x500.jpg",
+      "genre": "Romantic",
+      "songUrl": "Songs/Bol Do Na Zara.mp3",
+      "singer": "Armaan Malik",
+      "id": 7
+    }
+  ],
+  "playlist": [
+    {
+      "itemId": 6,
+      "title": "Tum Hi Ho",
+      "imgUrl": "https://lyrichindi.com/wp-content/uploads/2023/09/desktop-wallpaper-meri-aashiqui-tum-hi-ho-tum-hi-ho.jpg",
+      "genre": "Emotional",
+      "songUrl": "Songs/Tum Hi Ho.mp3",
+      "singer": "Arijit Singh",
+      "id": 4
+    },
+    {
+      "itemId": 4,
+      "title": "Saari Duniya Jalaa Denge",
+      "imgUrl": "https://c.saavncdn.com/623/Saari-Duniya-Jalaa-Denge-From-ANIMAL-Hindi-2023-20231124191004-500x500.jpg",
+      "genre": "Emotional",
+      "songUrl": "Songs/Saari Duniya Jalaa Denge.mp3",
+      "singer": "B Praak",
+      "id": 6
+    },
+    {
+      "itemId": 2,
+      "title": "Chaleya",
+      "imgUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202309/chaleya-song-141618193-1x1.jpg?VersionId=4H9DEXybp0zu2rGuku7n_C2z8stxuBJZ",
+      "genre": "Romantic",
+      "songUrl": "Songs/chaleya.mp3",
+      "singer": "Arijit Singh",
+      "id": 7
+    }
+  ]
+}
